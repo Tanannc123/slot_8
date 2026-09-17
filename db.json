@@ -2,7 +2,7 @@
   "orchids": [
     {
       "id": "1",
-      "name": "Cymbidium",
+      "name": "Hoa Tú",
       "description": "Hoa lan hoang thao",
       "category": "Wild"
     },
@@ -23,12 +23,6 @@
       "description": "Mô tả mới cập nhật",
       "category": "Special",
       "id": "eaid7IrC2XY"
-    },
-    {
-      "name": "HOa LAN",
-      "category": "3",
-      "description": "Thơm, đẹp",
-      "id": "30l5TpE19E8"
     }
   ],
   "feedback": [
