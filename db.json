@@ -1,0 +1,42 @@
+{
+  "orchids": [
+    {
+      "id": "1",
+      "name": "Cymbidium",
+      "description": "Hoa lan hoang thao",
+      "category": "Wild"
+    },
+    {
+      "name": "Dendrobium (Đã sửa)",
+      "description": "Mô tả mới cập nhật 2w",
+      "category": "Special",
+      "id": "2"
+    },
+    {
+      "name": "Dendrobium (Đã sửa)",
+      "description": "89",
+      "category": "Special",
+      "id": "3"
+    },
+    {
+      "name": "Dendrobium (Đã sửa)",
+      "description": "Mô tả mới cập nhật",
+      "category": "Special",
+      "id": "eaid7IrC2XY"
+    },
+    {
+      "name": "HOa LAN",
+      "category": "3",
+      "description": "Thơm, đẹp",
+      "id": "30l5TpE19E8"
+    }
+  ],
+  "feedback": [
+    {
+      "name": "an",
+      "comment": "hahah",
+      "id": "08AYtyfMfTE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
